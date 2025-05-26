@@ -2,7 +2,7 @@ package com.parcial2.viewmodel
 
 import androidx.compose.runtime.mutableStateListOf
 import androidx.lifecycle.ViewModel
-import com.parcial2.model.CartItem
+import com.parcial2.data.CartItem
 import com.parcial2.model.Product
 
 class CartViewModel : ViewModel() {
